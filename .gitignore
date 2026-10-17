@@ -1,0 +1,10 @@
+# JetBrains: keep shared project settings in .idea/, ignore machine-specific files
+.idea/workspace.xml
+.idea/shelf/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
